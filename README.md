@@ -10,7 +10,7 @@
 
 I'm a software engineer and AI engineer who loves developing new ideas and turning them into useful technology. Always learning, always building - a proud learnaholic.
 
-**More about my work, experience, and ideas → [Explore my portfolio](https://portfolio.kurikuri.sbs/)**
+**More about my work, experience, and ideas → [Explore my portfolio](https://anhkhoan.xyz/)**
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/anhkhoan).
 
