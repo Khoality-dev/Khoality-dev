@@ -4,8 +4,6 @@
 
 ### Software Engineer · AI Engineer
 
-[Portfolio](https://portfolio.kurikuri.sbs/) · [LinkedIn](https://www.linkedin.com/in/anhkhoan)
-
 </div>
 
 ### Hi, I'm Khoa 👋
@@ -13,6 +11,8 @@
 I'm a software engineer and AI engineer who loves developing new ideas and turning them into useful technology. Always learning, always building - a proud learnaholic.
 
 **More about my work, experience, and ideas → [Explore my portfolio](https://portfolio.kurikuri.sbs/)**
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anhkhoan).
 
 ### Tech
 
