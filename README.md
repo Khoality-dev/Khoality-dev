@@ -6,7 +6,7 @@
 
 </div>
 
-### Hi, I'm Khoa 😊
+### Hi, I'm Khoa 😄
 
 I'm a software engineer and AI engineer who loves developing new ideas and turning them into useful technology. Always learning, always building - a proud learnaholic.
 
